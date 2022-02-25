@@ -1,0 +1,149 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter of advice from a friend, sent to Sir Thomas Armestrong in Newgate, after the rule for his execution touching his present condition.</title>
+            <author>N. T.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63899</idno>
+            <idno type="STC">Wing T33</idno>
+            <idno type="STC">ESTC R9755</idno>
+            <idno type="EEBO-CITATION">13768216</idno>
+            <idno type="OCLC">ocm 13768216</idno>
+            <idno type="VID">101728</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63899)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101728)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 852:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter of advice from a friend, sent to Sir Thomas Armestrong in Newgate, after the rule for his execution touching his present condition.</title>
+                  <author>N. T.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Geo. Croom ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed at end: N.T.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Armstrong, Thomas, --  Sir, 1624?-1684.</term>
+               <term>Rye House Plot, 1683.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:101728:1"/>
+            <pb facs="tcp:101728:1" rendition="simple:additions"/>
+            <head>A LETTER Of Advice from a Friend, ſent to Sir Thomas Armeſtrong IN NEWGATE, After the Rule for his EXECUTION, Touching his Preſent CONDITION.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>AMongſt the <hi>Eaſtern</hi> Emperours on the Day of their Inaugurati<g ref="char:EOLhyphen"/>on into that Dignity, 'twas a Cuſtom to preſent them with ſeveral pieces of <hi>Marble,</hi> to make Choice of which piece they beſt liked for their <hi>Tombs.</hi> The <hi>Egyptians</hi> in their Feſtivals, had always a <hi>Deaths-Head</hi> ſerved up with their laſt Courſe. And the <hi>Macedonian Philip,</hi> maintained an Officer to re-mind him of his Mortality, with a <hi>Memento te Mortalem eſſe.</hi>
+            </p>
+            <p>If thus therefore in the higheſt Proſperities of Fortune, in the midſt of Health and Jovial hours, theſe Admonitions of <hi>Death</hi> were looked on as neceſſary a<g ref="char:EOLhyphen"/>mongſt the Ancients, not knowing how ſoon their Glories might be levelled with the <hi>Duſt,</hi> I hope ye will not take it Ill in me, at this time, under thoſe Cir<g ref="char:EOLhyphen"/>cumſtances the Juſtice and Providence of the Almighty hath overtaken you, that I thus appear as a Monitor to warn you of that approaching Fate which ſo nearly attends you.</p>
+            <p>Death, as it is the ſeparation of <hi>Soul</hi> and <hi>Body,</hi> thoſe two Ancient and Endear<g ref="char:EOLhyphen"/>ed Friends, is rarely welcome to the beſt of Men; Nature is ready to Heſitate at her Summons, and Tremble at her Approach; even then, when ſhe brings with her the Robes of Honour, and puts on the moſt pleaſing Aſpect that a Ver<g ref="char:EOLhyphen"/>tuous Life and a quiet Conſcience can deſerve of her; much leſs when ſhe ap<g ref="char:EOLhyphen"/>pears as an Enemy with the Terrors of Guilt, and marks of Horror in her Face, to Cite the Criminal to the great Tribunal of <hi>Heaven</hi> and Earth, to Anſwer the Almighty for the crying Exorbitances of an Ill-ſpent and Debauched Life: it is not therefore to be trifled with, or prepared for with a Curſory eaſie Com<g ref="char:EOLhyphen"/>plement, a bare <hi>(Lord have Mercy on me;)</hi> a Dying Sigh, or departing Groan; but 'ere you launch into the Ocean of Eternity whither the ſame conveys you, that you ought to conſider what Bottom you truſt to: and Pardon me Sir, In regard here<g ref="char:EOLhyphen"/>of, I preſume hereby to remember you of ſome part of your Duty, which in this great affair is Incumbent upon you. The Crimes you ſtand Guilty of are not ordinary, or ſlight Peccadiloes, the weakneſſes of Nature, a haſty un<g ref="char:EOLhyphen"/>adviſed Breath of Paſſion, a Courtly Deſire, or Laſcivious Inclination; but ſuch, and ſo great, is that Guilt you lye under, as nothing leſs than the forfeit of your Blood can expiate on Earth: and the Mercy of the All-Merciful God forgive in <hi>Heaven.</hi> The <hi>Particulars</hi> I need not enumerate: your own Conſcience, I hope, 'ere this reflects them to your Memory, with the Scarlet and crying Aggravations
+<pb facs="tcp:101728:2" rendition="simple:additions"/>
+hereof, and you behold them with another Eye then formerly you did. The Perſpective is inverted, and Murder is no longer Galantry and height of Youth and Spirit, Deceit and Injuſtice the Quaintneſs of Wit, and Parts, <hi>Treaſon</hi> and <hi>Conſpiracy</hi> againſt the Life and Perſon of the beſt of <hi>KINGS</hi> and <hi>Brothers,</hi> the preſerva<g ref="char:EOLhyphen"/>tion of Monarchy the Overthrow of the beſt of Governments and Religions, the mantainance of our Rights, Priviledges, and Liberties.</p>
+            <p>Theſe Sir, have been the Crimes, and theſe in you almoſt Crimes Unpardon<g ref="char:EOLhyphen"/>able. When the Imperial <hi>Roman</hi> was Stabbed in the <hi>Senate,</hi> the moſt unkind Stroke was from his beloved <hi>Brutus: (Et tu mi Brute?)</hi> In like manner, amidſt the number of thoſe who are your Fellow-Villains and Conſpirators that pre<g ref="char:EOLhyphen"/>pared the Dagger for the Royal Heart of your Soveraign, (tho God be praiſed your Deſigns were Fruſtrated) ſcarce a <hi>Brutus</hi> there to whom with more Re<g ref="char:EOLhyphen"/>proach his Sacred Majeſty might have ſaid, And is it you? do you Conſpire a<g ref="char:EOLhyphen"/>gainſt me, whom my Mercy hath ſo often ſpared? Is the Life thou oweſt to my Royal Bounty, Imployed againſt me? Did I preſerve thy Breath to ſhorten my own? And ſave thee from the Gallows, to foſter an Enemy for my Self? Have my favours cloyed thee? Have my repeated Indulgences deſerved this at thy Hand? Horrible Ingratitude! And Might not this have been ſaid againſt you? It might, you muſt Acknowledge it, for the whole World is now no ſtranger thereunto; and conſider with your ſelf, that if God ſhould ſo deal with you by your own Meaſures as you intended with your Soveraign, the utmoſt that Almightyneſs it ſelf could Inflict upon you, would be your down-fall: But <hi>Heaven</hi> be thank<g ref="char:EOLhyphen"/>ed, tho you have forfeited all hopes of Mercy in this World, a true and unfeigned Repentance of, and a Contrition for the Crimes, with a full and open Confeſſion to God and Man how far you have therein been concerned, may preſerve you from a bitter deſpair of God's Mercy: Nor can you without it poſſibly ima<g ref="char:EOLhyphen"/>gine ever to obtain it. Religion and Conſcience Exact this Duty from you: your <hi>King</hi> and Country whom you have ſo highly Offended, whom you Threatned and endeavoured to Ruine and Deſolate, can no<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> otherwiſe be ſatisfied, than in a Diſcovery of the reſt of thoſe that are ſtill in Enmity againſt them. Let not the Faces of our Foes be hid, leſt they perp<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e their Malice upon us. The Friend ſhip you owe them, is no obligation to their Concealment; for you are now to ſhake-Hands with them for ever, and in another World you'l never be taxed with Ingratitude for Deſerting them: they have left that God whom you hope to approach; are Enemies to him that you now would give (were they in your diſpoſal) a Thouſand Worlds to be Friends with; and unleſs you diſown them he'll never own you.</p>
+            <p>Conſider this, and let not Juſtice be ſtopped: Providence hath brought thee under the Stroke thereof, and I hope you are not Inſenſible of the immediate Hand of God therein: and well it is that he hath hitherto ſpared you, he might as well have Correpted your Life in the midſt of your Ryots and Extravagan<g ref="char:EOLhyphen"/>cies, he might have levelled a Plague at your Heart, or a Bolt at your Head when you defied him, and hurried you long ſince into the Pit of eternal Perdition, whence no Appeal had lain to the Throne of his free Grace: but he hath given you a Day, tho it be a ſhort one, to make your Peace with him. Loſe no time, for the Evening of your Life draws on apace; Night is upon you, a long, long, Eternal Night, wherein you muſt never more behold the material Beams that ſhine now upon you, and as you improve this little, little Time, Happineſs or Miſery attends you: Everlaſting Bliſs or never-ending Pain in an unknown Climate, to which you are now going: for which Change the Lord prepare you, and Sanctifie theſe Afflictions unto you for your Benefit; which is the Prayer of him that abhors your Crimes, but loves your Soul,</p>
+            <closer>
+               <signed>Your once Affectionate Friend <hi>N. T.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Geo. Croom,</hi> at the Sign of the <hi>Blue Ball</hi> over againſt <hi>Baynard</hi>'s <hi>Caſtle</hi> in <hi>Thames-ſtreet.</hi> 1684.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
